@@ -1,0 +1,41 @@
+body {
+	background-color: #D2D2C1;
+	background-image: url("imagens/fundo.png");
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 { 
+	font-size: 20px;
+	color: #9AA796;
+}
+
+a {
+	text-decoration: none;
+}
+
+#menu {
+	width: 840px;
+	padding: 30px;
+	background-color: #BEBEAB;
+	font-weight: 600;
+	text-align: center-left;
+	word-spacing: 10px;
+}
+
+#corpo {
+	width: 880px;
+	padding: 10px;
+	background-color: #FFFFFF;	
+}
+
+.bordas {
+	border-style: solid;
+	border-width: 10px;
+	border-color: #BEBEAB;
+}
+
+#rodape {
+	width: 880px;
+	text-align: center;
+	font-weight: bold;
+}
